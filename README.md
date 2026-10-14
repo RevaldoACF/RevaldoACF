@@ -44,14 +44,12 @@
 ---
 
 <div align="center">
-  <h2>TELEMETRY & PERFORMANCE</h2>
-  <br/>
+  <h2>PERFORMANCE</h2>
+  <br>
 
   <!-- GITHUB STATS & TOP LANGUAGES -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RevaldoACF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff0055&text_color=c9d1d9&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevaldoACF&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" />
-
-  <br/><br/>
 
   <!-- STREAK STATS -->
   <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=RevaldoACF&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff0055&currStreakLabel=00e5ff" />
