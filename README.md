@@ -1,24 +1,62 @@
-# 💫 About Me:
-Hello, It's me ACP!<br><br>I'm from Indonesian and still learning about Machine Learning
+<div align="center">
 
+  <!-- HEADER VISUAL BANNER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00e5ff&height=230&section=header&text=A%20C%20F&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MACHINE%20LEARNING%20ENGINEER&descAlignY=62&descSize=18&descColor=00e5ff" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/revaldo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:revaldoanjennurillifanderson@gmail.com) 
+  <!-- ANIMASI TYPING TAGLINE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=MACHINE+LEARNING+%26+DEEP+LEARNING;DATA+VISUALIZATION+%26+PREDICTIVE+MODELING;MATHEMATICAL+OPTIMIZATION+%26+AI+SYSTEMS" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RevaldoACF&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RevaldoACF&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RevaldoACF&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <br/><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RevaldoACF&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <!-- BRANDING BADGES -->
+  <img src="https://img.shields.io/badge/IDENTITY-ACP-00e5ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FOCUS-AI_%26_MACHINE_LEARNING-ff0055?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_MODELS-00ff88?style=for-the-badge&labelColor=0d1117" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RevaldoACF&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h2>CORE ARSENAL & ECOSYSTEM</h2>
+  <br/>
+
+  <!-- MAIN TECH ICONS -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,vscode,git,github,linux&theme=dark&perline=8" />
+
+  <br/><br/>
+
+  <!-- DATA & VISUALIZATION PILLS -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>TELEMETRY & PERFORMANCE</h2>
+  <br/>
+
+  <!-- GITHUB STATS & TOP LANGUAGES -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RevaldoACF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=ff0055&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevaldoACF&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" />
+
+  <br/><br/>
+
+  <!-- STREAK STATS -->
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=RevaldoACF&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=ff0055&currStreakLabel=00e5ff" />
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
